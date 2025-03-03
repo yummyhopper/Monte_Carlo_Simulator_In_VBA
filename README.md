@@ -11,7 +11,7 @@ Users can specify the number of iterations, define an input range (as a named ra
 
 ### Contents
 
-- Monte Carlo Simulator (Version 1).xlsm – Example Excel file containing all the VBA code with pre-configured named ranges.
+- MonteCarlo_Simulator (Version 1).xlsm – Example Excel file containing all the VBA code with pre-configured named ranges.
 
 ### Skills + Tools Used
 

@@ -1,5 +1,8 @@
 # Monte Carlo Simulator In Excel VBA
 
+![Monte_Carlo_Simulator](https://github.com/user-attachments/assets/0f5ae384-eee1-4e52-b033-e386f2422515)
+
+
 ### Introduction
 
 This is a Monte Carlo simulation tool I built using Excel VBA. It leverages a UserForm, called from a subroutine, to execute stochastic simulations based on user-defined inputs. The simulator is designed to estimate probabilistic outcomes for complex models, similar to Oracle's expensive Crystal Ball software.
